@@ -10,8 +10,6 @@ Case de modelagem de dados e DAX avançado para um relatório de Power BI com 6 
 
 > Visualização publicada em modo somente leitura (Power BI Publish to Web). Não requer login e não permite download do arquivo original.
 
-![Visão geral dos 6 painéis](mockups/contact_sheet_6_paineis.png)
-
 ## Contexto
 
 O cenário simulado envolve uma empresa do setor de alimentos e bebidas que precisava de uma visão unificada de performance em um contexto com múltiplas fontes de dados, cada uma com nomenclaturas, formatos de data e granularidades diferentes — o que dificultava comparações e análises cross-dimensionais confiáveis.
@@ -39,7 +37,6 @@ Um relatório único, confiável e navegável, substituindo múltiplas planilhas
 | `BI-360-Report_Fontes_de_Dados.xlsx` | As 13 fontes brutas em abas + Dicionário de Dados + Modelo Dimensional + Big Numbers com fórmulas vivas |
 | `BI-360-Report_Guia_PowerBI.docx` | Modelo de relacionamentos, passos de Power Query e medidas DAX prontas para os 6 painéis |
 | `BI-360-Report_Sumario_Executivo.docx` | Leitura analítica dos 6 painéis: achados, comparações e recomendações |
-| `mockups/` | Wireframes dos 6 painéis, no layout previsto para o relatório final em Power BI |
 
 ## Tecnologias
 
